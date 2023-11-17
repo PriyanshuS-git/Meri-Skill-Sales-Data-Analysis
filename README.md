@@ -52,9 +52,13 @@ Open the dataset in Microsoft Excel and perform data cleaning and preprocessing 
 3. SQL Analysis:
 Open your preferred SQL database management tool.
    
-   Execute the SQL queries provided in the project's SQL script to perform data analysis.
+Execute the SQL queries provided in the project's SQL script to perform data analysis.
 
 5. Power BI Visualization:
 Import the cleaned and preprocessed dataset into Power BI.
    
-   Use the dataset to create visualizations and reports as demonstrated in the project.
+Use the dataset to create visualizations and reports as demonstrated in the project.
+
+ DASHBOARD -
+ ![image](https://github.com/PriyanshuS-git/Meri-Skill-Sales-Data-Analysis/assets/100298305/7ef1df0f-9586-43d9-97c3-f7938cd4ad65)
+
